@@ -34,4 +34,14 @@ class Stack
             cout << " Push Value: " << value << endl;
             return value;
         }
+
+         void pop()
+        {
+            if (isEmpty())
+            {
+                cout << " Stack is Empty " << endl;
+            }
+
+    
+
 }
