@@ -114,6 +114,9 @@ int main()
                     cout << " Stact is Empty. no top value." << endl;
                 }
                 break;
+            case 4:
+                cout << " Exitung Program. " << endl;
+                break;
         }
     }
 };
