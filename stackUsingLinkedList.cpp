@@ -48,4 +48,10 @@ class Stack
         }
 
         void peek()
+         {
+            if (top == NULL)
+            {
+                COUT << " List is Empty: " << endl;
+            }
+            else
 };
