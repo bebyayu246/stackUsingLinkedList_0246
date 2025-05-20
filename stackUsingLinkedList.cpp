@@ -117,6 +117,9 @@ int main()
             case 4:
                 cout << " Exitung Program. " << endl;
                 break;
+            default:
+                cout << " Invalid choice. Try Again. " << endl;
+                break;
         }
     }
 };
